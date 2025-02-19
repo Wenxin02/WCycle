@@ -1,3 +1,13 @@
+'''
+ ============================================================================
+ Name        : Weighted cycle-based identification of influential node groups in complex networks
+ Author      : Wenxin Zheng
+ Description : An algorithm for computing Weighted Cycle (WCycle)
+
+ Copyright (C) 2025 by Wenxin Zheng. All rights reserved.
+
+ ============================================================================
+'''
 import networkx as nx
 from tqdm import tqdm
 import pandas as pd
