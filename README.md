@@ -1,5 +1,8 @@
-Data and Codes from the paper "Weighted cycle-based identification of influential node groups in complex networks"
+Data and Codes from the paper "Weighted cycle-based identification of influential node groups in complex networks".
 
+The WCycle_by_Zheng.py is the code for computing Weighted Cycle (WCycle), which is a indicator that incorporates basic cycle structures and edge weights to comprehensively assess node importance.
+
+The network datasets are in Dataset.tar.
 
 The 6 empirical network data come from the following references: 
 
